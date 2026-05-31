@@ -6,7 +6,7 @@ from PIL import Image
 import io
 import base64
 import pandas as pd
-import pickle
+import pickle 
 from deepface import DeepFace
 
 app = Flask(__name__)
